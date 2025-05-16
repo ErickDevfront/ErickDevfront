@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My is Erick....</p>
+<p align="left">Meu nome é: Erick....</p>
 
 ###
 
