@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde de sempre😅 <br>📚 Atualmente faço parte de uma turma de alunos do curso técnico informática para internet do senac <br>🎯 Objetivos: Me tornar um desenvolvedor web e programador <br>🎲 Curiosidade: Jogo (jogava) dota 2 desde 2013 </p>
 
 ###
 
-<h2 align="left">I code with Java Script, Html, css and python.</h2>
+<h2 align="left">Eu estou aprendendo Java Script, Html, css and python.</h2>
 
 ###
 
