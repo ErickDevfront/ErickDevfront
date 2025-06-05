@@ -1,0 +1,36 @@
+body{
+ background-color: rgb(189, 23, 59);
+}
+
+
+
+
+
+p{
+ color: blue;
+
+}
+
+
+h2{
+
+color: rgb(67, 23, 189);
+text-shadow: 10px 10px 10px rgb(48, 23, 189)
+
+}
+
+
+ol{
+
+color: blue;
+box-shadow: rgb(23, 189, 65);
+}
+
+
+li{
+
+box-shadow: 7px 2px 5px rgb(25, 16, 143);    
+
+}
+
+
