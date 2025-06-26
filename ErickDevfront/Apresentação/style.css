@@ -1,0 +1,18 @@
+body{
+    
+ background-color: black; /* Isso define a cor de fundo da página. */
+    
+}
+p{
+font-family: 'Courier New', Courier, monospace; /* Isso de define o tipo de fonte que será usado no texto da página.*/ 
+font-size: large; /* Isso define o tamanho de fonte que está sendo aplicado na página. (pode ser definido por tag) */
+font-weight: 100; /* Isso define a expessura da fonte aplicada na página.*/
+font-style: italic; /* Isso define o estilo da fonte, como normal (valor padrão), itálico ou oblíquo*/
+}
+
+p{
+color: aqua; /* Isso define a cor por texto. (nome)*/
+color: rgb(0, 255,0); /* Isso define a cor por valores Rgb. (numeros)*/
+color: #ff0000; /* Isso define a cor por valor Hexadecimais. (numeros e letras)*/
+
+}
