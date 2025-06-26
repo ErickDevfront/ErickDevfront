@@ -1,0 +1,33 @@
+body{
+
+    background-color: #FFE500;
+}
+
+p{
+    color: rgb(251, 251, 252);
+}
+
+h1{
+
+
+    color: rgb(251, 251, 252);
+}
+
+h2{
+color: rgb(251, 251, 252);
+}
+img{
+    image-orientation: flip;
+}
+
+ul{
+color: rgb(251, 251, 252)
+}
+
+li{
+    color: rgb(251, 251, 252)
+}
+
+a{
+    color: rgb(251, 251, 252)
+}

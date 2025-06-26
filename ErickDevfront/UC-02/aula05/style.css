@@ -1,0 +1,46 @@
+body {
+
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+margin: 0%;
+
+
+
+}
+
+
+h1 {
+
+
+    color: black;
+}
+
+h2
+{
+
+color: black; 
+
+}
+
+
+
+
+hr
+{
+
+    color: black;
+}
+
+
+br{
+
+    color: black;
+}
+
+
+img{
+
+background-image: -moz-element();
+
+}
