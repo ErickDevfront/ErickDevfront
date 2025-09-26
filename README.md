@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu estou aprendendo Java Script, Html, css and python.</h2>
+<h2 align="left">Eu estou aprendendo Java Script, Html, css.</h2>
 
 ###
 
@@ -35,7 +35,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
 
