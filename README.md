@@ -1,8 +1,8 @@
-<h1 align="left">Olá!! seja bem-vindo!!</h1>
+<h1 align="center">Olá!! seja bem-vindo!!</h1>
 
 ###
 
-<p align="left">Meu nome é: Erick....</p>
+
 
 ###
 
