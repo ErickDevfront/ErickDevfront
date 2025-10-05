@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde de sempre😅 <br>📚 Atualmente faço parte de uma turma de alunos do curso técnico informática para internet do senac <br>🎯 Objetivos: Me tornar um desenvolvedor web e programador <br>🎲 Curiosidade: Jogo (jogava) dota 2 desde 2013 </p>
+<p align="left">✨ Criando bugs desde de sempre😅 <br>📚 Atualmente faço parte de uma turma de alunos do curso técnico informática para internet do senac <br>🎯 Objetivos: Me tornar um desenvolvedor web e programador  2013 </p>
 
 ###
 
